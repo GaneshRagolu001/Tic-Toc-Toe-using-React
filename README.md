@@ -6,6 +6,8 @@
 
 Welcome to React Tic Tac Toe! This project is a simple yet classic implementation of the popular Tic Tac Toe game built using React, a powerful JavaScript library for building user interfaces.
 
+Deployed project Link : https://let-tic-tac-toe.netlify.app/
+
 ### Features:
 
 1. **Interactive Gameplay:** Experience the thrill of playing Tic Tac Toe against a friend or a computer opponent right in your browser.
